@@ -41,7 +41,6 @@ ui <- fluidPage(
         )
     )
 )
-?img
 
 # Define server logic  ----
 server <- function(input, output) {
